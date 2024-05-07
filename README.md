@@ -6,7 +6,10 @@ git pull後出現conflict
 
 ![image](https://github.com/mvclab-ntust-course/homework2-benson5104/assets/113347980/890493ed-1eac-456f-9c27-cb344d956aa5)
 
-解決conflict
+解決conflict(用 accept all changes)
 
 ![image](https://github.com/mvclab-ntust-course/homework2-benson5104/assets/113347980/e9f5ed06-86fc-4990-87b4-38b8422829b1)
+
+發送pull request(merge request??_
+
 ![image](https://github.com/mvclab-ntust-course/homework2-benson5104/assets/113347980/3a2249d4-5d5a-4c1c-bc41-576b3a8adc11)
